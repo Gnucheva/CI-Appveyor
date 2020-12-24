@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "const": [
+        "enum": [
           "RUB",
           "USD"
         ]
